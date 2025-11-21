@@ -40,3 +40,5 @@ dist
 .env
 *.db
 *.db-*
+
+.netlify/v1/functions/api/*

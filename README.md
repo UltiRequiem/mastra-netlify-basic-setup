@@ -1,5 +1,7 @@
 # starter-netlify
 
+Check https://github.com/mastra-ai/mastra/issues/10400
+
 To install dependencies:
 
 ```bash
